@@ -1,4 +1,5 @@
-<img width="1395" height="794" alt="image" src="https://github.com/user-attachments/assets/308df5c2-21c4-411d-85d5-9e16cf7a7c68" />
+<img width="1395" height="794" alt="image" src="https://github.com/user-attachments/assets/80dd4b41-bc28-4a0b-97e2-4ed225590693" />
+
 
 Business Case
 - The objective of this project was to develop a web-based decision support tool to improve sales efficiency. The application captures specific customer event data to predict the likelihood of a customer accepting or declining a commercial proposal, allowing teams to prioritize high-value leads.
